@@ -1,4 +1,18 @@
+
+#!/bin/sh
+
 cd/picons
+
+##############
+## DVB-S/S2 ##
+##############
+
+# radio
+
+
+
+
+
 
 # vrt_radio1
 
