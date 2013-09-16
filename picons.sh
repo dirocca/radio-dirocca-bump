@@ -703,6 +703,1111 @@ ln -s on_3_radio.png 1_0_2_6EF6_445_1_C00000_0_0_0.png
 
 
 
+# hr_3
+
+ln -s hr_3.png 1_0_2_6F05_445_1_C00000_0_0_0.png
+
+
+
+
+# you_fm
+
+ln -s you_fm.png 1_0_2_6F07_445_1_C00000_0_0_0.png
+
+
+
+
+# hr_4
+
+ln -s hr_4.png 1_0_2_6F06_445_1_C00000_0_0_0.png
+
+
+
+
+# hr_info
+
+ln -s hr_info.png 1_0_2_6F08_445_1_C00000_0_0_0.png
+
+
+
+
+# mdr1_s_anhalt
+
+ln -s mdr1_s_anhalt.png 1_0_2_6F0D_445_1_C00000_0_0_0.png
+
+
+
+
+# mdr1_sachsen
+
+ln -s mdr1_sachsen.png 1_0_2_6F0C_445_1_C00000_0_0_0.png
+
+
+
+
+# mdr1_thuringen
+
+ln -s mdr1_thuringen.png 1_0_2_6F0E_445_1_C00000_0_0_0.png
+
+
+
+
+# mdr_figaro
+
+ln -s mdr_figaro.png 1_0_2_6F0F_445_1_C00000_0_0_0.png
+
+
+
+
+# mdr_info
+
+ln -s mdr_info.png 1_0_2_6F12_445_1_C00000_0_0_0.png
+
+
+
+
+# mdr_jump
+
+ln -s mdr_jump.png 1_0_2_6F10_445_1_C00000_0_0_0.png
+
+
+
+
+# info_radio
+
+ln -s info_radio.png 1_0_2_6F24_445_1_C00000_0_0_0.png
+
+
+
+
+# kultur_radio
+
+ln -s kultur_radio.png 1_0_2_6F25_445_1_C00000_0_0_0.png
+
+
+
+
+# n_joy
+
+ln -s n_joy.png 1_0_2_6F18_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr1_niedersachsen
+
+ln -s ndr1_niedersachsen.png 1_0_2_6F1C_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr1_radio_mv
+
+ln -s ndr1_radio_mv.png 1_0_2_6F1B_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr1_welle_nord
+
+ln -s ndr1_welle_nord.png 1_0_2_6F1A_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr_90.3
+
+ln -s ndr_90.3.png 1_0_2_6F19_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr_info
+
+ln -s ndr_info.png 1_0_2_6F1D_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr_info_spezial
+
+ln -s ndr_info_spezial.png 1_0_2_6F17_445_1_C00000_0_0_0.png
+
+
+
+
+# ndr_kultur
+
+ln -s ndr_kultur.png 1_0_2_6F16_445_1_C00000_0_0_0.png
+
+
+
+
+# antenne_50plus
+
+ln -s antenne_50plus.png 1_0_2_3171_459_1_C00000_0_0_0.png
+
+
+
+
+# antenne_brandenburg
+
+ln -s antenne_brandenburg.png 1_0_2_6F26_445_1_C00000_0_0_0.png
+
+
+
+
+# radio_berlin_88.8
+
+ln -s radio_berlin_88.8.png 1_0_2_6F27_445_1_C00000_0_0_0.png
+
+
+
+
+# sputnik
+
+ln -s sputnik.png 1_0_2_6F11_445_1_C00000_0_0_0.png
+
+
+
+
+# sr1_europawelle
+
+ln -s sr1_europawelle.png 1_0_2_6F2D_445_1_C00000_0_0_0.png
+
+
+
+
+# sr2_kulturradio
+
+ln -s sr2_kulturradio.png 1_0_2_6F2E_445_1_C00000_0_0_0.png
+
+
+
+
+# sr3_saarlandwelle
+
+ln -s sr3_saarlandwelle.png 1_0_2_6F2F_445_1_C00000_0_0_0.png
+ 
+
+
+
+# swr_1_bw
+
+ln -s swr_1_bw.png 1_0_2_6F31_445_1_C00000_0_0_0.png
+
+
+
+
+
+# swr_1_rp
+
+ln -s swr_1_rp.png 1_0_2_6F32_445_1_C00000_0_0_0.png
+
+
+
+
+# swr_2
+
+ln -s swr_2.png 1_0_2_6F33_445_1_C00000_0_0_0.png
+
+
+
+
+# das_ding
+
+ln -s das_ding.png 1_0_2_6F37_445_1_C00000_0_0_0.png
+
+
+
+
+# eins_live
+
+ln -s eins_live.png 1_0_2_6F3B_445_1_C00000_0_0_0.png
+
+
+
+
+ 
+# swr_3
+
+ln -s swr_3.png 1_0_2_6F34_445_1_C00000_0_0_0.png
+
+
+
+
+# swr_4_bw_stuttgard
+
+ln -s swr_4_bw_stuttgard.png 1_0_2_6F35_445_1_C00000_0_0_0.png
+
+
+
+
+# swr_4_rp_mainz
+
+ln -s swr_4_rp_mainz.png 1_0_2_6F36_445_1_C00000_0_0_0.png
+
+
+
+
+# swr_info
+
+ln -s swr_info.png 1_0_2_6F38_445_1_C00000_0_0_0.png
+
+
+
+
+# wdr_2_koln
+
+ln -s wdr_2_koln.png 1_0_2_6F3C_445_1_C00000_0_0_0.png
+
+
+
+
+# wdr_3
+
+ln -s wdr_3.png 1_0_2_6F3D_445_1_C00000_0_0_0.png
+
+
+
+
+# wdr_4
+
+ln -s wdr_4.png 1_0_2_6F3E_445_1_C00000_0_0_0.png
+
+
+
+
+# wdr_5
+
+ln -s wdr_5.png 1_0_2_6F3F_445_1_C00000_0_0_0.png
+
+
+
+
+# deutschlandfunk
+
+ln -s deutschlandfunk.png 1_0_2_6D6D_437_1_C00000_0_0_0.png
+
+
+
+
+# deutschlandfunk_kultur
+
+ln -s deutschlandfunk_kultur.png 1_0_2_6D6C_437_1_C00000_0_0_0.png
+
+
+
+
+# erf_de
+
+ln -s erf_de.png 1_0_2_A1_7_85_C00000_0_0_0.png
+
+
+
+
+# kiraka
+
+ln -s kiraka.png 1_0_2_6F42_445_1_C00000_0_0_0.png
+
+
+
+
+# OE_1
+
+ln -s OE_1.png 1_0_2_3341_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_1_DD
+
+ln -s OE_1_DD.png 1_0_2_3342_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_B
+
+ln -s OE_2_B.png 1_0_2_3345_45B_1_C00000_0_0_0.png
+
+
+
+
+
+# radio_u1_tirol
+
+ln -s radio_u1_tirol.png 1_0_2_3350_45B_1_C00000_0_0_0.png
+
+
+
+
+# wdr_2_funkhaus_europa
+
+ln -s wdr_2_funkhaus_europa.png 1_0_2_6F40_445_1_C00000_0_0_0.png
+
+
+
+
+# wdr_einslive_diggi
+
+ln -s wdr_einslive_diggi.png 1_0_2_6F41_445_1_C00000_0_0_0.png
+
+
+
+
+# fm4
+
+ln -s fm4.png 1_0_2_334E_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_K
+
+ln -s OE_2_K.png 1_0_2_334B_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_N
+
+ln -s OE_2_N.png 1_0_2_3344_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_O
+
+ln -s OE_2_O.png 1_0_2_3346_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_S
+
+ln -s OE_2_S.png 1_0_2_3347_45B_1_C00000_0_0_0.png
+ 
+
+
+
+# OE_2_ST
+
+ln -s OE_2_ST.png 1_0_2_334A_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_T
+
+ln -s OE_2_T.png 1_0_2_3348_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_V
+
+ln -s OE_2_V.png 1_0_2_3349_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_2_W
+
+ln -s OE_2_W.png 1_0_2_3343_45B_1_C00000_0_0_0.png
+
+
+
+
+# OE_3
+
+ln -s OE_3.png 1_0_2_334D_45B_1_C00000_0_0_0.png
+
+
+
+
+# canal_sur_radio_andalucia
+
+ln -s canal_sur_radio_andalucia.png 1_0_2_7A45_410_1_C00000_0_0_0.png
+
+
+
+
+# harmony_fm_de
+
+ln -s harmony_fm_de.png 1_0_2_3176_459_1_C00000_0_0_0.png
+
+
+
+
+# hitradio_ffh
+
+ln -s hitradio_ffh.png 1_0_2_3174_459_1_C00000_0_0_0.png
+
+
+
+
+# insel_radio
+
+ln -s insel_radio.png 1_0_2_316B_459_1_C00000_0_0_0.png
+
+
+
+
+
+# klassik_radio
+
+ln -s klassik_radio.png 1_0_2_AD_5_85_C00000_0_0_0.png
+
+
+
+
+# planet_radio
+
+ln -s planet_radio.png 1_0_2_3175_459_1_C00000_0_0_0.png
+
+
+
+
+# radio_maria
+
+ln -s radio_maria.png 1_0_2_3354_45B_1_C00000_0_0_0.png
+
+
+
+
+# radio_top40
+
+ln -s radio_top40.png 1_0_2_316D_459_1_C00000_0_0_0.png
+
+
+
+
+# rock_antenne_de
+
+ln -s rock_antenne_de.png 1_0_2_A0_7_85_C00000_0_0_0.png
+
+
+
+
+# sunshinelive
+
+ln -s sunshinelive.png 1_0_2_A9_7_85_C00000_0_0_0.png
+
+
+
+
+# br_b5_plus
+
+ln -s br_b5_plus.png 1_0_2_6EF8_445_1_C00000_0_0_0.png
+ 
+
+
+
+# bremen_eins
+
+ln -s bremen_eins.png 1_0_2_6F20_445_1_C00000_0_0_0.png
+
+
+
+
+# bremen_vier
+
+ln -s bremen_vier.png 1_0_2_6F22_445_1_C00000_0_0_0.png
+
+
+
+
+
+# d_radio_wissen
+
+ln -s d_radio_wissen.png 1_0_2_6D71_437_1_C00000_0_0_0.png
+
+
+
+
+# fritz
+
+ln -s fritz.png 1_0_2_6F29_445_1_C00000_0_0_0.png
+
+
+
+
+# nordwest_radio
+
+ln -s nordwest_radio.png 1_0_2_6F21_445_1_C00000_0_0_0.png
+
+
+
+
+# radio_horeb
+
+ln -s radio_horeb.png 1_0_2_1C79_457_1_C00000_0_0_0.png
+
+
+
+
+# radio_neue_hoffnung
+
+ln -s radio_neue_hoffnung.png 1_0_2_1C7C_457_1_C00000_0_0_0.png
+
+
+
+
+# radio_paloma
+
+ln -s radio_paloma.png 1_0_2_316F_459_1_C00000_0_0_0.png
+
+
+
+
+# teddy
+
+ln -s teddy.png 1_0_2_B0_7_85_C00000_0_0_0.png
+
+
+
+
+# bbc_radio1
+
+ln -s bbc_radio1.png 1_0_2_1932_7FF_2_11A0000_0_0_0.png
+
+
+
+
+# bbc_radio1_xtra
+
+ln -s bbc_radio1_xtra.png 1_0_2_1942_7FF_2_11A0000_0_0_0.png
+
+
+
+ 
+# bbc_radio2
+
+ln -s bbc_radio2.png 1_0_2_1934_7FF_2_11A0000_0_0_0.png
+
+
+
+
+
+# bbc_radio3
+
+ln -s bbc_radio3.png 1_0_2_288C_7FE_2_11A0000_0_0_0.png
+
+
+
+
+# bbc_radio4
+
+ln -s bbc_radio4.png 1_0_2_288D_7FE_2_11A0000_0_0_0.png
+
+
+
+
+# bbc_radio5_live
+
+ln -s bbc_radio5_live.png 1_0_2_1901_7FF_2_11A0000_0_0_0.png
+
+
+
+
+
+# bbc_radio5_live_sports_extra
+
+ln -s bbc_radio5_live_sports_extra.png 1_0_2_1940_7FF_2_11A0000_0_0_0.png
+
+
+
+
+# bbc_radio6_music
+
+ln -s bbc_radio6_music.png 1_0_2_288F_7FE_2_11A0000_0_0_0.png
+
+
+
+
+# domradio_de
+
+ln -s domradio_de.png 1_0_2_AB_5_85_C00000_0_0_0.png
+
+
+
+
+
+# ffn_didital
+
+ln -s ffn_didital.png 1_0_2_316E_459_1_C00000_0_0_0.png
+
+
+
+
+# absolute_radio_80s
+
+ln -s absolute_radio_80s.png 1_0_2_D84E_A36_2_11A0000_0_0_0.png
+
+
+
+
+# absolute_radio_90s
+
+ln -s absolute_radio_90s.png 1_0_2_D850_A36_2_11A0000_0_0_0.png
+
+
+
+
+
+# absolute-radio_uk
+
+ln -s absolute-radio_uk.png 1_0_2_D852_A36_2_11A0000_0_0_0.png
+
+
+
+
+# bbc_radio4_extra
+
+ln -s bbc_radio4_extra.png 1_0_2_2890_7FE_2_11A0000_0_0_0.png
+
+
+
+
+
+# bbc_radio_london
+
+ln -s bbc_radio_london.png 1_0_2_1946_7FF_2_11A0000_0_0_0.png
+
+
+
+
+
+# capital_fm_london
+
+ln -s capital_fm_london.png 1_0_2_2558_A34_2_11A0000_0_0_0.png
+
+
+
+
+
+# choice_fm
+
+ln -s choice_fm.png 1_0_2_254D_A34_2_11A0000_0_0_0.png
+
+
+
+
+# classic_fm
+
+ln -s classic_fm.png 1_0_2_2562_A34_2_11A0000_0_0_0.png
+
+
+
+
+# gold_dab
+
+ln -s gold_dab.png 1_0_2_2559_A34_2_11A0000_0_0_0.png
+
+
+
+
+
+# jazz_fm_uk
+
+ln -s jazz_fm_uk.png 1_0_2_D851_A36_2_11A0000_0_0_0.png
+
+
+
+
+# planet_rock_uk
+
+ln -s planet_rock_uk.png 1_0_2_2567_A34_2_11A0000_0_0_0.png
+
+
+
+
+
+# radio_caroline
+
+ln -s radio_caroline.png 1_0_2_2937_90B_3B_11A0000_0_0_0.png
+
+
+
+
+
+# smooth_fm
+
+ln -s smooth_fm.png 1_0_2_C6C7_969_2_11A0000_0_0_0.png
+
+
+
+
+
+# talksport
+
+ln -s talksport.png 1_0_2_27FE_806_2_11A0000_0_0_0.png
+
+
+
+
+# xfm_1049
+
+ln -s xfm_1049.png 1_0_2_2557_A34_2_11A0000_0_0_0.png
+
+
+
+
+# etb_radio
+
+ln -s etb_radio.png 1_0_2_1B6F_3FC_1_C00000_0_0_0.png
+
+
+
+
+# jam_fm
+
+ln -s jam_fm.png 1_0_2_B1_5_85_C00000_0_0_0.png
+
+
+
+
+# jazz_fm
+
+ln -s jazz_fm.png 1_0_2_CF96_908_2_11A0000_0_0_0.png
+
+
+
+
+# ndr_2
+
+ln -s ndr_2.png 1_0_2_6F15_445_1_C00000_0_0_0.png
+
+
+
+
+# radio_courtoisie
+
+ln -s radio_courtoisie.png 1_0_2_2176_400_1_C00000_0_0_0.png
+
+
+
+
+# radio_eins
+
+ln -s radio_eins.png 1_0_2_6F28_445_1_C00000_0_0_0.png
+
+
+
+
+# radio_swiss_classic
+
+ln -s radio_swiss_classic.png 1_0_2_3A6_2134_13E_820000_0_0_0.png
+
+
+
+
+# radio_swiss_jazz
+
+ln -s radio_swiss_jazz.png 1_0_2_3A8_2134_13E_820000_0_0_0.png
+
+
+
+
+# radio_swiss-pop
+
+ln -s radio_swiss-pop.png 1_0_2_3A7_2134_13E_820000_0_0_0.png
+
+
+
+
+# srf_4
+
+ln -s srf_4.png 1_0_2_3A9_2134_13E_820000_0_0_0.png
+
+
+
+
+# radio_beograd_2
+
+ln -s radio_beograd_2.png 1_0_2_146F_40D_1_C00000_0_0_0.png
+
+
+
+
+# rsi_rete_due
+
+ln -s rsi_rete_due.png 1_0_2_36D0_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rsi_rete_tre
+
+ln -s rsi_rete_tre.png 1_0_2_36D1_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rsi_rete_uno
+
+ln -s rsi_rete_uno.png 1_0_2_36CF_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rsr_couleur_3
+
+ln -s rsr_couleur_3.png 1_0_2_36CD_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rsr_espace
+
+ln -s rsr_espace.png 1_0_2_36CC_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rsr_option_musique
+
+ln -s rsr_option_musique.png 1_0_2_36CE_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rtl_102.5
+
+ln -s rtl_102.5.png 1_0_2_29FE_3CF0_13E_820000_0_0_0.png
+
+
+
+
+# srg_rumantsch
+
+ln -s srg_rumantsch.png 1_0_2_39E_2134_13E_820000_0_0_0.png
+
+
+
+
+# world_radio_switzerland
+
+ln -s world_radio_switzerland.png 1_0_2_36D6_6A4_13E_820000_0_0_0.png
+
+
+
+
+# absolute_radio
+
+ln -s absolute_radio.png 1_0_2_CF81_908_2_11A0000_0_0_0.png
+
+
+
+
+# radio_regenbogen
+
+ln -s radio_regenbogen.png 1_0_2_3177_459_1_C00000_0_0_0.png
+
+
+
+
+# rtl_1440
+
+ln -s rtl_1440.png 1_0_2_803_449_35_C00000_0_0_0.png
+
+
+
+
+# rtl_radio
+
+ln -s rtl_radio.png 1_0_2_804_449_35_C00000_0_0_0.png
+
+
+
+
+# rtl_radio_letzeburg
+
+ln -s rtl_radio_letzeburg.png 1_0_2_147D_C98_3_EB0000_0_0_0.png
+
+
+
+
+# slam_fm
+
+ln -s slam_fm.png 1_0_2_817_449_35_C00000_0_0_0.png
+
+
+
+
+# srf_3
+
+ln -s srf_3.png 1_0_2_39B_2134_13E_820000_0_0_0.png
+
+
+
+
+# srf_musikwelle
+
+ln -s srf_musikwelle.png 1_0_2_39D_2134_13E_820000_0_0_0.png
+
+
+
+# srf_virus
+
+ln -s srf_virus.png 1_0_2_39C_2134_13E_820000_0_0_0.png
+
+
+
+# wrn
+
+ln -s wrn.png 1_0_2_201A_24B8_13E_820000_0_0_0.png
+
+
+
+
+# bfbs_radio
+
+ln -s bfbs_radio.png 1_0_2_CB3C_907_2_11A0000_0_0_0.png
+
+
+
+
+# bnr_nieuwsradio
+
+ln -s bnr_nieuwsradio.png 1_0_2_FBE_451_35_C00000_0_0_0.png
+
+
+
+
+# capital
+
+ln -s capital.png 1_0_2_E44_708_C8_820000_0_0_0.png
+
+
+
+
+# funx
+
+ln -s funx.png 1_0_2_FC3_451_35_C00000_0_0_0.png
+
+
+
+# radio_deejay
+
+ln -s radio_deejay.png 1_0_2_E43_708_C8_820000_0_0_0.png
+
+
+
+
+# radio_due
+
+ln -s radio_due.png 1_0_2_CF0_1518_13E_820000_0_0_0.png
+
+
+
+
+# radio_italia
+
+ln -s radio_italia.png 1_0_2_E2E_708_C8_820000_0_0_0.png
+
+
+
+
+# radio_tre
+
+ln -s radio_tre.png 1_0_2_CF1_1518_13E_820000_0_0_0.png
+
+
+
+# radio_uno
+
+ln -s radio_uno.png 1_0_2_CEF_1518_13E_820000_0_0_0.png
+
+
+
+
+# rfi_francais
+
+ln -s rfi_francais.png 1_0_2_C0F_20D0_13E_820000_0_0_0.png
+
+
+
+
+# radio_10_gold
+
+ln -s radio_10_gold.png 1_0_2_813_449_35_C00000_0_0_0.png
+
+
+
+
+# radio_100.7_fm
+
+ln -s radio_100.7_fm.png 1_0_2_147E_C98_3_EB0000_0_0_0.png
+
+
+
+
+# radio_538
+
+ln -s radio_538.png 1_0_2_812_449_35_C00000_0_0_0.png
+
+
+
+
+# rcj_shalom
+
+ln -s rcj_shalom.png 1_0_2_216D_400_1_C00000_0_0_0.png
+
+
+
+
+# rsr_classique
+
+ln -s rsr_classique.png 1_0_2_36D7_6A4_13E_820000_0_0_0.png
+
+
+
+
+# rsr_la_1ere
+
+ln -s rsr_la_1ere.png 1_0_2_36CB_6A4_13E_820000_0_0_0.png
+
+
+
+
+# srf_1
+
+ln -s srf_1.png 1_0_2_399_2134_13E_820000_0_0_0.png
+
+
+
+# srf_2
+
+ln -s srf_2.png 1_0_2_39A_2134_13E_820000_0_0_0.png
+
+
+
+# sud_radio
+
+ln -s sud_radio.png 1_0_2_2152_400_1_C00000_0_0_0.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
